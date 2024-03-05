@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @adityakr2024
+- 👀 I’m interested in Data Science and AI
+- 📫 How to reach me: https://www.linkedin.com/in/aditya-kumar-3a5b6a126/
