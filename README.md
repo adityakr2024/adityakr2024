@@ -1,4 +1,4 @@
-🌐 Aspiring .NET Backend Developer | C# & SQL Enthusiast
+Aspiring .NET Backend Developer
 
 I'm Aditya Kumar, a recent college graduate who is passionate about backend development and skilled in building scalable, efficient applications. My technical toolkit includes C#, SQL, and JavaScript, along with experience in .NET Framework, ASP.NET, and MVC for creating dynamic web applications.
 
